@@ -1,0 +1,6 @@
+{
+  "old_interface": "OpenVPN0",
+  "dns_profile": "DnsProfile0",
+  "old_dns": ["8.8.8.8", "8.8.4.4"],
+  "new_dns": ["77.88.8.8", "77.88.8.1"]
+}

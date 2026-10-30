@@ -1,0 +1,15 @@
+generated/
+*.local.json
+*.local.*
+*.private.*
+*.ovpn
+*.pem
+*.key
+*.p12
+*.pfx
+*.pcap*
+*.log
+.env*
+__pycache__/
+.venv/
+.DS_Store

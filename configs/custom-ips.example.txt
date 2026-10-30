@@ -1,0 +1,2 @@
+# Optional explicit destinations, one address or CIDR per line.
+# Use your own destinations. No live server address is provided here.

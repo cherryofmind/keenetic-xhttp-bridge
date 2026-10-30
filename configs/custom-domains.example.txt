@@ -1,0 +1,10 @@
+# Parent domains include subdomains. Your copy stays separate from downloaded lists.
+youtube.com
+googlevideo.com
+ytimg.com
+chatgpt.com
+openai.com
+oaistatic.com
+oaiusercontent.com
+instagram.com
+cdninstagram.com
